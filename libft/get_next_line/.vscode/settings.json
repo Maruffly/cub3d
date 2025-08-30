@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "get_next_line.h": "c",
+    "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        }
+    }
+    
+}
