@@ -61,6 +61,17 @@ The core of the game uses the **DDA (Digital Differential Analysis)** algorithm 
 
 ## 🚀 Installation & Usage
 
-### 1. Build
+### 1. Build mlx library
+Inside the mlx folder:
+```bash
+make
+```
+### 2. Build game
 ```bash
 make bonus
+```
+### 3. Launch game
+```bash
+./cub3d maps/<selected_map>
+```
+
