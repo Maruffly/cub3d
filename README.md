@@ -59,7 +59,7 @@ The core of the game uses the **DDA (Digital Differential Analysis)** algorithm 
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### 1. Build mlx library
 Inside the mlx folder:
