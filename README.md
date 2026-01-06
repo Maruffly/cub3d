@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 Bonus Features (125/100)
+## 🌟 Bonus Features
 
 This version includes the following advanced features beyond the mandatory requirements:
 * **Interactive Doors**: Open and close doors using the `E` key to block or allow passage.
